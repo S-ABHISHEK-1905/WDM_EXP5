@@ -1,5 +1,5 @@
 ## EX5 Information Retrieval Using Boolean Model in Python
-## DATE:23/4/24 
+## DATE:24/3/24 
 ## AIM: 
 To implement Information Retrieval Using Boolean Model in Python.
 ## Description:
